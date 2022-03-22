@@ -1,0 +1,21 @@
+img {height: 200px;
+width: 200px;
+
+}
+
+h1 {
+  color: red;
+}
+
+.bacon{
+  color: green;
+}
+
+.barcoli{
+  color: red;
+}
+
+
+.circular{
+  border-radius: 100%;
+}
